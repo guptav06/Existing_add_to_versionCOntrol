@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590252604528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2456656883",
+    "id" : "7FC25A41",
+    "lastKnownWriteTime" : 1590252663,
+    "last_content_update" : 1590252663967,
+    "path" : "~/Documents/VersionControl/Existing_add_to_versionCOntrol/versionControl.R",
+    "project_path" : "versionControl.R",
+    "properties" : {
+        "cursorPosition" : "0,55",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
